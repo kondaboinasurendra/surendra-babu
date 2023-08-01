@@ -1,0 +1,14 @@
+.page{
+    display: flex;
+    justify-content: center;
+    
+  }
+  .page p{
+    margin: 7px;
+  }
+  .suri{
+    width: 50%;
+  }
+  td{
+    font-size: 20px;
+  }
